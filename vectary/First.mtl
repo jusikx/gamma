@@ -1,0 +1,121 @@
+newmtl Drawing Structure 2_dcf7ba86-78fc-4a83-a5a7-64edadb7cd06
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd SquarePlane_basecolor.jpg
+newmtl Splash Shape_cf683f5a-6676-44c2-a7d1-dd31768a85b6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd flaky1.jpg
+newmtl Cylinder material 2_497bb720-8676-4800-903f-eab73fb0bd7b
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Drawing Structure 3_f0f68f38-efd7-41cb-ae84-9b1b211c69d6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd SquarePlane_basecolor.jpg
+newmtl Splash Shape 1_f2c569a6-dc79-4c95-901d-7a97ab4edef1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd flaky1.jpg
+newmtl Drawing Structure 1_38eab08e-2425-4a53-a751-abc9c5fea06a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd SquarePlane_basecolor.jpg
+newmtl structure_ba663297-7cb4-4506-aa1a-4e5dba4b1c30
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd SquarePlane_basecolor.jpg
+newmtl Red Wood_a2f96a0a-d5ac-42ca-97e4-3b063771e567
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd coffe_wood1_basecolor_ambi_3.jpg
+newmtl mat17_adcd51e9-e670-4677-9f10-0f444aea5ece
+Kd 0.270 0.350 0.390
+d 1.000
+newmtl mat3_da767ac3-d641-4840-8106-a1f8ac84d6d2
+Kd 0.500 0.870 0.920
+d 1.000
+newmtl mat14_e0b70292-9254-45c7-be3b-e678a7604511
+Kd 1.000 0.340 0.130
+d 1.000
+newmtl mat4_bae5499e-6bf5-430e-94fe-0f4f2b89d941
+Kd 0.000 0.740 0.830
+d 1.000
+newmtl mat10_f5348cb1-7fb4-434d-96fc-228f64d1aff8
+Kd 0.300 0.690 0.310
+d 1.000
+newmtl mat23 1_ac359f67-9329-4155-bf67-fa82c0f4c50d
+Kd 0.100 0.100 0.100
+d 1.000
+newmtl 13___Default_1b98fecb-7eed-4969-9683-d76b70d25b7c
+Kd 0.882 0.416 0.000
+d 1.000
+newmtl 09___Default_b56a475c-cb13-47c9-9193-c2f57e9accbe
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl 08___Default_f762c707-7d1e-40f4-81e5-60da3ea9f36e
+Kd 0.400 0.153 0.086
+d 1.000
+newmtl 02___Default_e92be0d0-07ed-4653-ad35-edc6d9b60f48
+Kd 0.000 0.729 1.000
+d 1.000
+newmtl _crayfishdiffuse_86234c23-c57c-474c-9ab9-9198fe8fa671
+Kd 0.012 0.012 0.012
+d 1.000
+newmtl 07___Default_c1a9fd95-229f-4037-b420-fe532cb57a04
+Kd 0.000 1.000 0.282
+d 1.000
+newmtl 03___Default_ced5d0d0-abd9-45e1-bd8f-541a38d21561
+Kd 0.988 1.000 0.031
+d 1.000
+newmtl mat19_921354ed-91ee-4dff-9c8b-21d97aa6c23c
+Kd 0.870 0.600 0.270
+d 1.000
+newmtl mat20_b99d0198-48c4-4695-90c7-77d6e6e0dd0f
+Kd 0.470 0.330 0.280
+d 1.000
+newmtl mat17 1_f9d216d6-97a3-4851-ad03-585bfd4ab7d8
+Kd 0.270 0.350 0.390
+d 1.000
+newmtl mat18_3688693e-bcfe-49ca-a76e-923944a144fe
+Kd 1.000 0.800 0.530
+d 1.000
+newmtl mat10 1_0fa35adb-4206-4a16-9743-237ff61aa0f5
+Kd 0.300 0.690 0.310
+d 1.000
+newmtl mat9_1b826f13-7739-491d-87df-c75a6fd4a16e
+Kd 0.550 0.760 0.290
+d 1.000
+newmtl mat23_d48c83b6-4c01-4b46-95fe-551363829af5
+Kd 0.100 0.100 0.100
+d 1.000
+newmtl mat21_bd830c45-0923-46c5-ad6f-ac866da06f57
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl mat5_df9dbebf-78a4-4c59-b06d-6c8a1e89b8b2
+Kd 0.010 0.610 0.900
+d 1.000
+newmtl mat22_a0f27b88-20c7-480b-b42a-8a86a941d595
+Kd 0.620 0.620 0.620
+d 1.000
+newmtl mat12_3fd56982-a7d9-4b3e-8680-a32bd37802fc
+Kd 1.000 0.920 0.230
+d 1.000
+newmtl mat13_b13ba351-a43b-4b19-998d-09f3df4d36fb
+Kd 1.000 0.600 0.000
+d 1.000
+newmtl mat8_4b4e3857-c81b-4fd1-b153-45c19503b4f7
+Kd 0.960 0.260 0.210
+d 1.000
+newmtl group_0_2829873 material_a8dd59d6-cc9b-45be-be92-1afa9e1d8ea4
+Kd 0.820 0.286 0.286
+d 1.000
+newmtl group_0_2829873 material 1_2fae54f0-c141-4730-8584-2eff6da3cea0
+Kd 0.820 0.286 0.286
+d 1.000
+newmtl group_0_2829873 material 2_d5071b32-652c-466b-8360-bcff0c144a90
+Kd 0.820 0.286 0.286
+d 1.000
+newmtl group_0_2829873 material 3_4cb573fa-129e-476e-a0e6-6bfc93e01c2d
+Kd 0.820 0.286 0.286
+d 1.000

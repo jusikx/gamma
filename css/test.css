@@ -1,0 +1,242 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+:focus, :active {
+  outline: none;
+}
+
+a:focus, a:active {
+  outline: none;
+}
+
+nav, footer, header, aside {
+  display: block;
+}
+
+html, body {
+  background-color: #f4fcff;
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -webkit-text-size-adjust: 100%;
+     -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+          text-size-adjust: 100%;
+}
+
+input, button, textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+a, a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: 400;
+}
+
+.header {
+  position: relative;
+  padding: 35px 0 0 0;
+  width: 100%;
+}
+
+.header_container {
+  max-width: 1130px;
+  height: 45px;
+  padding: 0 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .header_container {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 450px) {
+  .header_container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+.header_column {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+}
+
+@media (max-width: 450px) {
+  .header_column {
+    margin: 0 0 35px 0;
+  }
+}
+
+.header_logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.header_title {
+  color: #2f4b6e;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.logo_image {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 37px;
+          flex: 0 0 37px;
+  margin: 0 8px 0 0;
+  max-width: 100%;
+}
+
+@media (max-width: 320px) {
+  .logo_image {
+    margin: 0 5px 0 0;
+  }
+}
+
+.logo_text {
+  color: #2f4b6e;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+}
+
+.main_container {
+  height: 100%;
+  max-width: 1130px;
+  padding: 0 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .main_container {
+    padding: 0 20px;
+  }
+}
+
+.main_button {
+  padding: 10px 15px 10px 15px;
+  color: #2f4b6e;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 14px;
+  position: relative;
+  border: 2px solid #f8e587;
+  background: rgba(248, 229, 135, 0.75);
+  -webkit-transition-duration: 0.35s;
+          transition-duration: 0.35s;
+  border-radius: 32px;
+}
+
+@media (max-width: 768px) {
+  .main_button {
+    background: #f8e587;
+  }
+}
+
+@media (min-width: 769px) {
+  .main_button:hover {
+    background-color: #f8e587;
+  }
+}
+
+.link_container {
+  margin: 40px 0 0 0;
+}
+
+main {
+  height: 70%;
+  margin: 90px 0 0 0;
+}
+
+.menu-bg {
+  margin: 40px 0 0 0;
+  -o-object-fit: cover;
+     object-fit: cover;
+  max-width: 100%;
+}
+
+.link_wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto;
+}
